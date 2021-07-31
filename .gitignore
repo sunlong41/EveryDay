@@ -8,3 +8,6 @@
 /springCloud/.idea/*.xml
 /springCloud/.idea/*.iml
 /springCloud/*/target/*.jar
+/springCloud/*.iml
+/springCloud/.gradle
+/springCloud/*/target
