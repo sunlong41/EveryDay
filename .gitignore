@@ -1,2 +1,10 @@
 *.iml
 *.class
+*.jar
+*.lst
+*.properties
+*.idea
+/springCloud/.idea
+/springCloud/.idea/*.xml
+/springCloud/.idea/*.iml
+/springCloud/*/target/*.jar
