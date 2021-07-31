@@ -11,3 +11,8 @@
 /springCloud/*.iml
 /springCloud/.gradle
 /springCloud/*/target
+/springCloud/cloud-provider-payment8001/target
+/springCloud/cloud-eureka-server7002/target
+/springCloud/cloud-eureka-server7001/target
+/springCloud/cloud-consumer-order80/target
+/springCloud/cloud-api-commons/target
